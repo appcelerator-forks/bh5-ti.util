@@ -1,0 +1,19 @@
+{
+  "name": "util",
+  "repository": "tipm/util",
+  "description": "Simple Util Library",
+  "version": "0.1.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "platforms": [
+    "web",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
